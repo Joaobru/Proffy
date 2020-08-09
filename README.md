@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="Logo" src="web/src/assets/images/logo.svg">
+    <img alt="Logo" title="Logo" src="img/logo.svg">
 </h1>
 
 <p align="center"> 
@@ -34,34 +34,36 @@
 ### Landing 
 
 <p align="center">
-    <img alt="Landing" title="Landing" width="500" src="img/Mobile/Landing.jpg">
+    <img alt="Landing" title="Landing" width="500" height="600" src="img/Mobile/Landing.jpg">
 </p> 
 
 ### Dar Aula
 <p align="center">
-    <img alt="Give-Classes" title="Give-Classes" width="500" src="img/Mobile/Give-Classes.jpg">
+    <img alt="Give-Classes" title="Give-Classes" width="500" height="600" src="img/Mobile/Give-Classes.jpg">
 </p>
 
 ### Estudar (Filtros)
 <p align="center">
-    <img alt="Filters" title="Filters" width="500" src="img/Mobile/Filtes.jpg">
+    <img alt="Filters" title="Filters" width="500" height="600" src="img/Mobile/Filters.jpg">
 </p>
 
 ### Estudar (Lista)
 <p align="center">
-    <img alt="Classes-List" title="Classes-List" width="500" src="img/Mobile/Classes-List.jpg">
+    <img alt="Classes-List" title="Classes-List" width="500" height="600"  src="img/Mobile/Classes-List.jpg">
 </p>
 
 ### Estudar (Favoritos)
 <p align="center">
-    <img alt="Favorites" title="Favorites" width="500" src="img/Mobile/Favorites.jpg">
+    <img alt="Favorites" title="Favorites" width="500" height="600" src="img/Mobile/Favorites.jpg">
 </p>
 
 ## Funcionalidades
 
 * Criar Aulas;
 
-* Listar as aulas com filtro.
+* Listar as aulas com filtro;
+
+*Criar conexões.
 
 ## Para rodar a aplicação
 

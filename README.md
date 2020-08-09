@@ -52,37 +52,23 @@
 
 <table>
   <tr>
-    <th width="100%">
+    <th width="33.3%">
       Estudar (Filtros)
+    </th>
+    <th width="33.3%">
+      Estudar (Lista)
+    </th>
+    <th width="33.3%">
+      Estudar (Favoritos)
     </th>
   </tr>
   <tr>
     <td>
       <img alt="Filters" title="Filters" width="580" src="img/Mobile/Filters.jpg">
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th width="50%">
-      Estudar (Lista)
-    </th>
-  </tr>
-  <tr>
     <td>
         <img alt="Classes-List" title="Classes-List" width="580" src="img/Mobile/Classes-List.jpg">
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th width="50%">
-      Estudar (Favoritos)
-    </th>
-  </tr>
-  <tr>
     <td>
         <img alt="Favorites" title="Favorites" width="580" src="img/Mobile/Favorites.jpg">
     </td>

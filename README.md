@@ -38,8 +38,10 @@
     </th>
   </tr>
   <tr>
-    <td align="center">
-      <img alt="Landing" title="Landing" width="580" src="img/Mobile/Landing.jpg">
+    <td>
+      <p align="center">
+        <img alt="Landing" title="Landing" width="600" src="img/Mobile/Landing.jpg">
+      </p>
     </td>
   </tr>
 </table>
@@ -51,7 +53,7 @@
     </th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img alt="Give-Classes" title="Give-Classes" width="580" src="img/Mobile/Give-Classes.jpg">
     </td>
   </tr>

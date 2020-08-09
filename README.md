@@ -31,20 +31,20 @@
 
 ## Aplicação Mobile
 
-<table>
-  <tr>
-    <th width="50%">
-      Landing
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <img alt="Landing" title="Landing" width="600" src="img/Mobile/Landing.jpg">
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <th width="50%">
+        Landing
+      </th>
+    </tr>
+    <tr>
+      <td>
+          <img alt="Landing" title="Landing" width="600" src="img/Mobile/Landing.jpg">
+      </td>
+    </tr>
+  </table>
+</p>
 
 <table>
   <tr>

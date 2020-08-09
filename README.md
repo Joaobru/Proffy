@@ -14,7 +14,7 @@
 ### Landing 
 
 <p align="center">
-    <img alt="Landing" title="Landing" width="600" src="img/Web/Landing.PNG">
+    <img alt="Landing" title="Landing" src="img/Web/Landing.PNG">
 </p>
 
 ### Dar Aulas 
@@ -26,7 +26,7 @@
 ### Estudar 
 
 <p align="center">
-    <img alt="Study" title="Study" src="img/Web/Study.PNG" color="##8257e5>
+    <img alt="Study" title="Study" src="img/Web/Study.PNG" width="500" color="##8257e5">
 </p>
 
 ## Aplicação Mobile
@@ -34,27 +34,27 @@
 ### Landing 
 
 <p align="center">
-    <img alt="Landing" title="Landing" src="img/Mobile/Landing.jpg">
+    <img alt="Landing" title="Landing" width="500" src="img/Mobile/Landing.jpg">
 </p> 
 
 ### Dar Aula
 <p align="center">
-    <img alt="Give-Classes" title="Give-Classes" src="img/Mobile/Give-Classes.jpg">
+    <img alt="Give-Classes" title="Give-Classes" width="500" src="img/Mobile/Give-Classes.jpg">
 </p>
 
 ### Estudar (Filtros)
 <p align="center">
-    <img alt="Filters" title="Filters" src="img/Mobile/Filtes.jpg">
+    <img alt="Filters" title="Filters" width="500" src="img/Mobile/Filtes.jpg">
 </p>
 
 ### Estudar (Lista)
 <p align="center">
-    <img alt="Classes-List" title="Classes-List" src="img/Mobile/Classes-List.jpg">
+    <img alt="Classes-List" title="Classes-List" width="500" src="img/Mobile/Classes-List.jpg">
 </p>
 
 ### Estudar (Favoritos)
 <p align="center">
-    <img alt="Favorites" title="Favorites" src="img/Mobile/Favorites.jpg">
+    <img alt="Favorites" title="Favorites" width="500" src="img/Mobile/Favorites.jpg">
 </p>
 
 ## Funcionalidades

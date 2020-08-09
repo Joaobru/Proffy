@@ -38,8 +38,8 @@
     </th>
   </tr>
   <tr>
-    <td>
-      <img alt="Landing" title="Landing" width="618" src="img/Mobile/Landing.jpg">
+    <td align="center">
+      <img alt="Landing" title="Landing" width="580" src="img/Mobile/Landing.jpg">
     </td>
   </tr>
 </table>
@@ -51,8 +51,8 @@
     </th>
   </tr>
   <tr>
-    <td>
-      <img alt="Give-Classes" title="Give-Classes" width="618" src="img/Mobile/Give-Classes.jpg">
+    <td align="center">
+      <img alt="Give-Classes" title="Give-Classes" width="580" src="img/Mobile/Give-Classes.jpg">
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td>
-      <img alt="Filters" title="Filters" width="618" src="img/Mobile/Filters.jpg">
+      <img alt="Filters" title="Filters" width="580" src="img/Mobile/Filters.jpg">
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>
-        <img alt="Classes-List" title="Classes-List" width="618" src="img/Mobile/Classes-List.jpg">
+        <img alt="Classes-List" title="Classes-List" width="580" src="img/Mobile/Classes-List.jpg">
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td>
-        <img alt="Favorites" title="Favorites" width="618" src="img/Mobile/Favorites.jpg">
+        <img alt="Favorites" title="Favorites" width="580" src="img/Mobile/Favorites.jpg">
     </td>
   </tr>
 </table>

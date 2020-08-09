@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>
-          <img alt="Landing" title="Landing" width="600" src="img/Mobile/Landing.jpg">
+          <img alt="Landing" title="Landing" width="580" src="img/Mobile/Landing.jpg">
       </td>
       <td>
       <img alt="Give-Classes" title="Give-Classes" width="580" src="img/Mobile/Give-Classes.jpg">
@@ -64,13 +64,13 @@
   </tr>
   <tr>
     <td>
-      <img alt="Filters" title="Filters" width="580" src="img/Mobile/Filters.jpg">
+      <img alt="Filters" title="Filters" width="620" src="img/Mobile/Filters.jpg">
     </td>
     <td>
-        <img alt="Classes-List" title="Classes-List" width="580" src="img/Mobile/Classes-List.jpg">
+        <img alt="Classes-List" title="Classes-List" width="620" src="img/Mobile/Classes-List.jpg">
     </td>
     <td>
-        <img alt="Favorites" title="Favorites" width="580" src="img/Mobile/Favorites.jpg">
+        <img alt="Favorites" title="Favorites" width="620" src="img/Mobile/Favorites.jpg">
     </td>
   </tr>
 </table>

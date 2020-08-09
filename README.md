@@ -31,37 +31,28 @@
 
 ## Aplicação Mobile
 
-<p align="center">
   <table>
     <tr>
       <th width="50%">
         Landing
+      </th>
+      <th width="50%">
+        Dar Aula
       </th>
     </tr>
     <tr>
       <td>
           <img alt="Landing" title="Landing" width="600" src="img/Mobile/Landing.jpg">
       </td>
-    </tr>
-  </table>
-</p>
-
-<table>
-  <tr>
-    <th width="50%">
-      Dar Aula
-    </th>
-  </tr>
-  <tr>
-    <td>
+      <td>
       <img alt="Give-Classes" title="Give-Classes" width="580" src="img/Mobile/Give-Classes.jpg">
     </td>
-  </tr>
-</table>
+    </tr>
+  </table>
 
 <table>
   <tr>
-    <th width="50%">
+    <th width="100%">
       Estudar (Filtros)
     </th>
   </tr>

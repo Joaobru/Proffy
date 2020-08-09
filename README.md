@@ -26,36 +26,75 @@
 ### Estudar 
 
 <p align="center">
-    <img alt="Study" title="Study" src="img/Web/Study.PNG" width="500" color="##8257e5">
+    <img alt="Study" title="Study" src="img/Web/Study.PNG" color="##8257e5">
 </p>
 
 ## Aplicação Mobile
 
-### Landing 
+<table>
+  <tr>
+    <th width="50%">
+      Landing
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Landing" title="Landing" width="618" src="img/Mobile/Landing.jpg">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-    <img alt="Landing" title="Landing" width="500" height="600" src="img/Mobile/Landing.jpg">
-</p> 
+<table>
+  <tr>
+    <th width="50%">
+      Dar Aula
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Give-Classes" title="Give-Classes" width="618" src="img/Mobile/Give-Classes.jpg">
+    </td>
+  </tr>
+</table>
 
-### Dar Aula
-<p align="center">
-    <img alt="Give-Classes" title="Give-Classes" width="500" height="600" src="img/Mobile/Give-Classes.jpg">
-</p>
+<table>
+  <tr>
+    <th width="50%">
+      Estudar (Filtros)
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Filters" title="Filters" width="618" src="img/Mobile/Filters.jpg">
+    </td>
+  </tr>
+</table>
 
-### Estudar (Filtros)
-<p align="center">
-    <img alt="Filters" title="Filters" width="500" height="600" src="img/Mobile/Filters.jpg">
-</p>
+<table>
+  <tr>
+    <th width="50%">
+      Estudar (Lista)
+    </th>
+  </tr>
+  <tr>
+    <td>
+        <img alt="Classes-List" title="Classes-List" width="618" src="img/Mobile/Classes-List.jpg">
+    </td>
+  </tr>
+</table>
 
-### Estudar (Lista)
-<p align="center">
-    <img alt="Classes-List" title="Classes-List" width="500" height="600"  src="img/Mobile/Classes-List.jpg">
-</p>
-
-### Estudar (Favoritos)
-<p align="center">
-    <img alt="Favorites" title="Favorites" width="500" height="600" src="img/Mobile/Favorites.jpg">
-</p>
+<table>
+  <tr>
+    <th width="50%">
+      Estudar (Favoritos)
+    </th>
+  </tr>
+  <tr>
+    <td>
+        <img alt="Favorites" title="Favorites" width="618" src="img/Mobile/Favorites.jpg">
+    </td>
+  </tr>
+</table>
 
 ## Funcionalidades
 

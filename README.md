@@ -14,7 +14,7 @@
 ### Landing 
 
 <p align="center">
-    <img alt="Landing" title="Landing" src="img/Web/Landing.PNG">
+    <img alt="Landing" title="Landing" width="600" src="img/Web/Landing.PNG">
 </p>
 
 ### Dar Aulas 
@@ -26,7 +26,7 @@
 ### Estudar 
 
 <p align="center">
-    <img alt="Study" title="Study" src="img/Web/Study.PNG">
+    <img alt="Study" title="Study" src="img/Web/Study.PNG" color="##8257e5>
 </p>
 
 ## Aplicação Mobile
@@ -90,6 +90,7 @@
   * React-Native (Mobile Front-End);
 
   * SQLite (Banco de Dados);
+
 
 
 

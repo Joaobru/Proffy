@@ -1,5 +1,2 @@
-web: 
-
-cd web
-
-yarn start
+web: cd server
+web: yarn start

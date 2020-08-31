@@ -1,1 +1,3 @@
-web: cd server
+release: ./server
+
+web: yarn start

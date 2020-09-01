@@ -7,6 +7,8 @@
   dando a possibilidade dos professores cadastrarem suas aulas especificando a matéria,
   horários, dias... Os alunos podem pesquisar as aulas e entrar em contato com os professores
   facilmente. 
+  <br>
+  Você pode testar a aplicação em: https://stupefied-turing-6a35f2.netlify.app
 </p>
 
 ## Aplicação Web

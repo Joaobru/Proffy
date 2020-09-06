@@ -115,13 +115,13 @@ $ npm start ou yarn start
 
 ## Tecnologias
 
-  * NodeJS (Back-End);
+  * [Node.js](https://nodejs.org/en/) (Back-End);
 
-  * ReactJS (Web Front-End);
+  * [ReactJS](https://reactjs.org/) (Web Front-End);
 
-  * React-Native (Mobile Front-End);
+  * [React-Native](https://reactnative.dev/) (Mobile Front-End);
 
-  * SQLite (Banco de Dados);
+  * [SQLite](https://www.sqlite.org/index.html) (Banco de Dados);
 
 
 

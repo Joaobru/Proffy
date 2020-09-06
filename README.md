@@ -99,19 +99,18 @@ $ cd Proffy-master
 $ npm install ou yarn
 
 # Execute a aplicação em modo de desenvolvimento, é importante executar este
-# comando primeiro no server depois no web ou mobile.
+# comando primeiro no server depois no web ou mobile
 $ npm start ou yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
+# # Exclusivamente para rodar a aplicação mobile é preciso instalar o Expo 
+# no seu celular, quando você rodar a aplicação Mobile com o comando yarn
+# start, o seu navegador irá abrir mostrando um QrCode, abra o Expo no seu
+# celular, e clique na opção "Scan QR Code", aponte a câmera para o QrCode
+# e aproveite para fazer testes no Proffy
+
 ```
-
-  * Exclusivamente na parte da aplicação mobile é preciso instalar o Expo 
-  no seu celular, quando você rodar a aplicação Mobile com o comando yarn
-  start, o seu navegador irá abrir mostrando um QrCode, abra o Expo no seu
-  celular, e clique na opção "Scan QR Code", aponte a câmera para o QrCode
-  e aproveite para fazer testes no Proffy. 
-
 
 ## Tecnologias
 

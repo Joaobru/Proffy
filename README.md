@@ -122,7 +122,7 @@ $ npm start ou yarn start
 
   * [Node.js](https://nodejs.org/en/) (Back-End);
 
-  * [ReactJS](https://reactjs.org/) (Web Front-End);
+  * [ReactJS](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) (Web Front-End);
 
   * [React-Native](https://reactnative.dev/) (Mobile Front-End);
 

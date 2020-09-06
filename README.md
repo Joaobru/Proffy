@@ -11,7 +11,7 @@
   Você pode testar a aplicação em: https://stupefied-turing-6a35f2.netlify.app
 </p>
 
-## Aplicação Web
+## :computer: Aplicação Web
 
 ### Landing 
 
@@ -31,7 +31,7 @@
     <img alt="Study" title="Study" src="img/Web/Study.PNG" color="##8257e5">
 </p>
 
-## Aplicação Mobile
+## :iphone: Aplicação Mobile
 
   <table>
     <tr>
@@ -77,15 +77,21 @@
   </tr>
 </table>
 
-## Funcionalidades
+## :bulb: Funcionalidades
 
 * Criar Aulas;
 
 * Listar as aulas com filtro;
 
-*Criar conexões.
+* Criar conexões.
 
-## Para rodar a aplicação
+### :wrench: Pré-requisitos
+
+ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+## :rocket: Para rodar a aplicação
 
   ```bash
 
@@ -112,7 +118,7 @@ $ npm start ou yarn start
 
 ```
 
-## Tecnologias
+## 🛠 Tecnologias
 
   * [Node.js](https://nodejs.org/en/) (Back-End);
 

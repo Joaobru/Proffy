@@ -110,7 +110,7 @@ $ npm start ou yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
-# # Exclusivamente para rodar a aplicação mobile é preciso instalar o Expo 
+# Exclusivamente para rodar a aplicação mobile é preciso instalar o Expo 
 # no seu celular, quando você rodar a aplicação Mobile com o comando yarn
 # start, o seu navegador irá abrir mostrando um QrCode, abra o Expo no seu
 # celular, e clique na opção "Scan QR Code", aponte a câmera para o QrCode
